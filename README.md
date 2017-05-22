@@ -10,7 +10,7 @@ This extension pack packages some of the most popular (and some I find very usef
 * [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2)
 * [Angular Material Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.angular-material-snippets)
 * [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension)
-* []rxjs-snippets(https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets)
+* [rxjs-snippets](https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets)
 
 ### Template Productivity
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)

@@ -5,7 +5,7 @@
     "version": "0.0.2",
     "publisher": "loiane",
     "icon": "angular-icon.png",
-    "repository": "https://github.com/loiane/angular-extension-pack",
+    "repository": "https://github.com/loiane/angular-extension-pack-vsce",
     "engines": {
         "vscode": "^1.12.0"
     },
