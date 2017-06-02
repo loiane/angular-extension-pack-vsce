@@ -29,6 +29,9 @@
         "NG-42.ng-fortytwo-vscode-extension",
         "pkosta2006.rxjs-snippets",
         "robertohuertasm.vscode-icons",
-        "AngularDoc.angulardoc-vscode"
+        "AngularDoc.angulardoc-vscode",
+        "SimonTest.simontest",
+        "EditorConfig.EditorConfig",
+        "GregorBiswanger.json2ts"
     ]
 }
