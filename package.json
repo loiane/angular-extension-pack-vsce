@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "repository": "https://github.com/loiane/angular-extension-pack-vsce",
