@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.",
-    "version": "0.0.3",
+    "version": "0.2.2",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -37,6 +37,10 @@
         "AngularDoc.angulardoc-vscode",
         "SimonTest.simontest",
         "EditorConfig.EditorConfig",
-        "GregorBiswanger.json2ts"
+        "GregorBiswanger.json2ts",
+        "MarinhoBrandao.Angular2Tests"
+        "msjsdiag.debugger-for-chrome"
+        "esbenp.prettier-vscode"
+        "eg2.tslint"
     ]
 }
