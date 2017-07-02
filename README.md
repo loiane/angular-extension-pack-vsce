@@ -5,7 +5,7 @@
 
 This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.
 
-These are all the extensions I recommend using for my [free Angular training in Portuguese](http://loiane.training/).
+These are all the extensions I also recommend using for my [free Angular training in Portuguese](http://loiane.training/).
 
 ## Extensions Included
 
