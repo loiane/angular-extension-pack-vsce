@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to the "angular-extension-pack" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## 0.0.3 - 2017-June-02
 - Added description to each of the extensions used in this collection
