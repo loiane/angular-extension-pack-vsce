@@ -5,6 +5,10 @@
     "version": "0.0.3",
     "publisher": "loiane",
     "icon": "angular-icon.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
     "repository": "https://github.com/loiane/angular-extension-pack-vsce",
     "engines": {
         "vscode": "^1.12.0"
@@ -15,7 +19,8 @@
     "keywords" : [
         "Angular",
         "Angular 2",
-        "Angular 4"
+        "Angular 4",
+        "TypeScript"
     ],
     "extensionDependencies": [ 
         "UVBrain.Angular2",
