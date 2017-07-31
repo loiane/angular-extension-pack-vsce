@@ -13,7 +13,7 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Angular v4 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular with TypeScript snippets.
 * [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - Angular 2, 4 and upcoming latest Typescript HTML ES6 fequently used snippets (very useful specially if you work with route guards and component life cycle hooks - great complement to John Papa's extension above).
-* [Angular Material Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.angular-material-snippets) - Angular Material component snippets.
+* [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Angular Material and Angular FlexBox component snippets.
 * [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension) - Adds snippets, create barrel commands, and scafolding for ngRx.
 * [rxjs-snippets](https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets) - Generate Reactivex rxjs code snippets for typescript/javascript.
 
@@ -35,6 +35,7 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - Convert a JSON from clipboard to TypeScript interfaces. (Ctrl+Alt+V).
 * [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - specially for Angular, I recommend adding the following config in you users setting for VsCode: 
   - Settings: `"prettier.singleQuote": true` (this helps when using auto import extension or the VSCode auto import functionality).
+ * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - VSCode has a very good auto import capability, but sometime you still need to import some files manually, and this extension helps a lot in these cases.
 
 ### Code Analysis
 

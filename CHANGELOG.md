@@ -3,6 +3,11 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.3.2 - 2017-July-30
+- Removed [Angular Material Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.angular-material-snippets): not being updated
+- Added [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material)
+- Added [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
 ## 0.2.2 - 2017-July-02
 - Added [Angular 2 TypeScript Test Snippets](https://marketplace.visualstudio.com/items?itemName=MarinhoBrandao.Angular2Tests)
 - Added [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
