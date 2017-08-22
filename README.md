@@ -31,7 +31,7 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets.
 
 ### Productivity
-* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports (altough VSCode has auto import funcionatlity, this plugin is va great complement).
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports (altough VSCode has auto import funcionatlity, this plugin is a great complement).
 * [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - Convert a JSON from clipboard to TypeScript interfaces. (Ctrl+Alt+V).
 * [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - specially for Angular, I recommend adding the following config in you users setting for VsCode: 
   - Settings: `"prettier.singleQuote": true` (this helps when using auto import extension or the VSCode auto import functionality).
