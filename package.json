@@ -4,7 +4,7 @@
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.",
     "version": "0.4.2",
     "publisher": "loiane",
-    "icon": "https://raw.githubusercontent.com/loiane/angular-extension-pack-vsce/master/angular-icon.png",
+    "icon": "angular-icon.png",
     "galleryBanner": {
         "color": "#0273D4",
         "theme": "dark"
