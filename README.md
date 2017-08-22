@@ -15,7 +15,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - Angular 2, 4 and upcoming latest Typescript HTML ES6 fequently used snippets (very useful specially if you work with route guards and component life cycle hooks - great complement to John Papa's extension above).
 * [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Angular Material and Angular FlexBox component snippets.
 * [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension) - Adds snippets, create barrel commands, and scafolding for ngRx.
-* [rxjs-snippets](https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets) - Generate Reactivex rxjs code snippets for typescript/javascript.
 
 ### Testing
 * [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest) - Analyzes your Angular code and generates unit tests for you (can overwrite spec files generated automatically with Angular CLI).
@@ -36,15 +35,22 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - specially for Angular, I recommend adding the following config in you users setting for VsCode: 
   - Settings: `"prettier.singleQuote": true` (this helps when using auto import extension or the VSCode auto import functionality).
  * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - VSCode has a very good auto import capability, but sometime you still need to import some files manually, and this extension helps a lot in these cases.
+ * [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts) - this is a great extension to help you refactor and re-organize some files and components in the project. It automatically fixes the imports on the file (or component folder) that is being moved and also files that are importing the component you are moving. To use it: right-click on a file or folder in the Project Explorer pane and select 'Move TypeScript'.
 
 ### Code Analysis
 
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - linter for the TypeScript language, help fixing error in TS code.
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode) - Architectural analysis and visualization for Angular 2 projects.
+* [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Favorite feature for Angular projects: sorts and organizes your imports according to convention and removes imports that are unused (`Ctrl+Alt+o` on Win/Linux or `Ctrl+Opt+o` on MacOS).
 
 ### Workbench
 
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - my favorite collection of icons for VSCode projects!
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code (must have plugin for VSCode)
+
+### Other extensions recommended, but not included in this package:
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. Great when you have nested brackets. I usually keep this extension disabled and only enable it when needed.
+* [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - allows you to view git history with graph and details
+* [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator) - helps you creating code snippets (saves snippets in the User Snippets in VSCode)
 
 **Enjoy!**

@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.",
-    "version": "0.3.2",
+    "version": "0.4.2",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -33,7 +33,6 @@
         "formulahendry.auto-close-tag",
         "abusaidm.html-snippets",
         "NG-42.ng-fortytwo-vscode-extension",
-        "pkosta2006.rxjs-snippets",
         "robertohuertasm.vscode-icons",
         "AngularDoc.angulardoc-vscode",
         "SimonTest.simontest",
@@ -43,6 +42,8 @@
         "msjsdiag.debugger-for-chrome",
         "esbenp.prettier-vscode",
         "eg2.tslint",
-        "christian-kohler.path-intellisense"
+        "christian-kohler.path-intellisense",
+        "rbbit.typescript-hero",
+        "stringham.move-ts"
     ]
 }
