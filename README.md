@@ -1,7 +1,7 @@
 # VS Code Angular Extension Pack
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
+[![Version](https://vsmarketplacebadge.apphb.com/version/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 
 This extension pack packages some of the most popular (and some I find very useful) VS Code Angular extensions.
 
