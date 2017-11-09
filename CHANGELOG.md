@@ -3,11 +3,16 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.5.2 - 2017-November-09
+- Removed [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - added as recommended as some people might prefer the material icons package.
+- Added [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
+- Added recommended extensions in README file
+
 ## 0.4.2 - 2017-August-22
 - Removed [rxjs-snippets](https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets) - very few snippets for Angular.
 - Added [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - Added [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
-- Added recommended extensions, but not includes in README file
+- Added recommended extensions, but not included in README file
 
 ## 0.3.2 - 2017-July-30
 - Removed [Angular Material Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.angular-material-snippets): not being updated
