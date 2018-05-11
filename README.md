@@ -11,7 +11,7 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 ### Angular + Angular Material + NgRX + RxJS Code Snippets
 
-* [Angular v4 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular with TypeScript snippets.
+* [Angular v6 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular with TypeScript snippets.
 
 * [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - Angular 2, 4 and upcoming latest Typescript HTML ES6 fequently used snippets (very useful specially if you work with route guards and component life cycle hooks - great complement to John Papa's extension above).
 

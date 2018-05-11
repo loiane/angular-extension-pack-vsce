@@ -1,17 +1,18 @@
 {
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
-    "description": "Some of the most popular (and some I find very useful) VS Code Angular extensions.",
-    "version": "0.5.2",
+    "description": "Some of the most popular (and some I find very useful) Angular extensions.",
+    "version": "0.5.3",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
         "color": "#0273D4",
         "theme": "dark"
     },
+    "license": "SEE LICENSE IN LICENSE.md",
     "repository": "https://github.com/loiane/angular-extension-pack-vsce",
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.18.0"
     },
     "categories": [
         "Extension Packs"
@@ -21,7 +22,7 @@
         "Angular 2",
         "Angular 4",
         "Angular 5",
-        "TypeScript"
+        "Angular 6"
     ],
     "extensionDependencies": [ 
         "UVBrain.Angular2",

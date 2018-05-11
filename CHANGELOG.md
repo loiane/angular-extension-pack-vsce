@@ -3,6 +3,9 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.5.3 - 2018-May-10
+- Updated names and description of plugins
+
 ## 0.5.2 - 2017-November-09
 - Removed [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - added as recommended as some people might prefer the material icons package.
 - Added [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
