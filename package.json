@@ -45,6 +45,7 @@
         "eg2.tslint",
         "christian-kohler.path-intellisense",
         "rbbit.typescript-hero",
-        "stringham.move-ts"
+        "stringham.move-ts",
+        "MS-vsliveshare.vsliveshare"
     ]
 }
