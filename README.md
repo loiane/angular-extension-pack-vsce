@@ -58,6 +58,8 @@ These are all the extensions I also recommend using for my [free Angular trainin
  
  * [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts) - this is a great extension to help you refactor and re-organize some files and components in the project. It automatically fixes the imports on the file (or component folder) that is being moved and also files that are importing the component you are moving. To use it: right-click on a file or folder in the Project Explorer pane and select 'Move TypeScript'.
 
+ * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - this extension allows you to launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
+
 ### Code Analysis
 
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - linter for the TypeScript language, help fixing error in TS code.
