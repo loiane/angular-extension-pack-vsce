@@ -3,6 +3,10 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.6.0 - 2018-August-14
+- Added [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
+- Support extension pack revisited - use `extensionPack` instead of `extensionDependencies`
+
 ## 0.5.3 - 2018-May-10
 - Updated names and description of plugins
 

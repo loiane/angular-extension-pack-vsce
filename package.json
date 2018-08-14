@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.5.3",
+    "version": "0.6.0",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -12,7 +12,7 @@
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": "https://github.com/loiane/angular-extension-pack-vsce",
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Extension Packs"
@@ -24,7 +24,7 @@
         "Angular 5",
         "Angular 6"
     ],
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "UVBrain.Angular2",
         "johnpapa.Angular2",
         "Angular.ng-template",
