@@ -46,6 +46,7 @@
         "christian-kohler.path-intellisense",
         "rbbit.typescript-hero",
         "stringham.move-ts",
-        "cyrilletuzi.angular-schematics"
+        "cyrilletuzi.angular-schematics",
+        "rctay.karma-problem-matcher"
     ]
 }
