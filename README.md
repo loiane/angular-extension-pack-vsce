@@ -62,8 +62,12 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 ### Code Analysis
 
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - linter for the TypeScript language, help fixing error in TS code.
-  - Recommended settings: `"tslint.autoFixOnSave": true` (auto fix lint issues on file save)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - linter for the TypeScript language, help fixing error in TS code.
+  - Recommended settings: 
+`"editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+}`
+(auto fix lint issues on file save)
 
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode) - Architectural analysis and visualization for Angular 2 projects.
 
