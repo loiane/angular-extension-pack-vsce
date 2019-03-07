@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -34,7 +34,6 @@
         "steoates.autoimport",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "abusaidm.html-snippets",
         "NG-42.ng-fortytwo-vscode-extension",
         "infinity1207.angular2-switcher",
         "AngularDoc.angulardoc-vscode",
