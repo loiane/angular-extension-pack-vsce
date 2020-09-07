@@ -48,6 +48,7 @@
         "rbbit.typescript-hero",
         "stringham.move-ts",
         "cyrilletuzi.angular-schematics",
+        "rctay.karma-problem-matcher",
         "alexiv.vscode-angular2-files"
     ]
 }

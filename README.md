@@ -29,6 +29,8 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Angular 2 TypeScript Test Snippets](https://marketplace.visualstudio.com/items?itemName=MarinhoBrandao.Angular2Tests) - Angular 2 TypeScript test snippets.
 
+* [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
+
 ### Debug
 
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Must have extension for Angular development. You can debug using chrome and add your breakpoints in VSCode. Tutorial on how to use can be found [on VSCode docs](https://code.visualstudio.com/docs/nodejs/angular-tutorial).
