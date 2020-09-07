@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.6.0",
+    "version": "0.7.1",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -22,7 +22,9 @@
         "Angular 2",
         "Angular 4",
         "Angular 5",
-        "Angular 6"
+        "Angular 6",
+        "Angular 7",
+        "Angular 8"
     ],
     "extensionPack": [ 
         "UVBrain.Angular2",
@@ -32,7 +34,6 @@
         "steoates.autoimport",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "abusaidm.html-snippets",
         "NG-42.ng-fortytwo-vscode-extension",
         "infinity1207.angular2-switcher",
         "AngularDoc.angulardoc-vscode",
@@ -42,11 +43,12 @@
         "MarinhoBrandao.Angular2Tests",
         "msjsdiag.debugger-for-chrome",
         "esbenp.prettier-vscode",
-        "eg2.tslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
         "christian-kohler.path-intellisense",
         "rbbit.typescript-hero",
         "stringham.move-ts",
         "cyrilletuzi.angular-schematics",
-        "rctay.karma-problem-matcher"
+        "rctay.karma-problem-matcher",
+        "alexiv.vscode-angular2-files"
     ]
 }
