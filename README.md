@@ -1,4 +1,4 @@
-# VS Code Angular Extension Pack
+# Visual Studio Code Angular Extension Pack
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
