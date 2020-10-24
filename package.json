@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -17,32 +17,30 @@
     "categories": [
         "Extension Packs"
     ],
-    "keywords" : [
+    "keywords": [
         "Angular",
+        "Angular 10",
+        "Angular 9",
+        "Angular 8",
+        "Angular 7",
+        "TypeScript",
+        "JavaScript",
         "Angular 2",
         "Angular 4",
         "Angular 5",
-        "Angular 6",
-        "Angular 7",
-        "Angular 8",
-        "Angular 9",
-        "Angular 10"
+        "Angular 6"
     ],
-    "extensionPack": [ 
-        "UVBrain.Angular2",
+    "extensionPack": [
         "johnpapa.Angular2",
         "Angular.ng-template",
         "1tontech.angular-material",
         "steoates.autoimport",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "NG-42.ng-fortytwo-vscode-extension",
         "infinity1207.angular2-switcher",
-        "AngularDoc.angulardoc-vscode",
         "SimonTest.simontest",
         "EditorConfig.EditorConfig",
-        "GregorBiswanger.json2ts",
-        "MarinhoBrandao.Angular2Tests",
+        "quicktype.quicktype",
         "msjsdiag.debugger-for-chrome",
         "esbenp.prettier-vscode",
         "ms-vscode.vscode-typescript-tslint-plugin",
@@ -52,6 +50,7 @@
         "cyrilletuzi.angular-schematics",
         "rctay.karma-problem-matcher",
         "alexiv.vscode-angular2-files",
-        "obenjiro.arrr"
+        "obenjiro.arrr",
+        "CoenraadS.bracket-pair-colorizer-2"
     ]
 }

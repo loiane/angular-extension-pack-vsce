@@ -11,13 +11,9 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 ### Angular + Angular Material + NgRX + RxJS Code Snippets
 
-* [Angular v6 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular with TypeScript snippets.
-
-* [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - Angular 2, 4 and upcoming latest Typescript HTML ES6 fequently used snippets (very useful specially if you work with route guards and component life cycle hooks - great complement to John Papa's extension above).
+* [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular with TypeScript snippets.
 
 * [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Angular Material and Angular FlexBox component snippets.
-
-* [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension) - Adds snippets, create barrel commands, and scafolding for ngRx.
 
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher) - Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular projects.
   - `alt+o`(Windows) or `shift+alt+o`(macOS)
@@ -26,8 +22,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 ### Testing
 
 * [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest) - Analyzes your Angular code and generates unit tests for you (can overwrite spec files generated automatically with Angular CLI).
-
-* [Angular 2 TypeScript Test Snippets](https://marketplace.visualstudio.com/items?itemName=MarinhoBrandao.Angular2Tests) - Angular 2 TypeScript test snippets.
 
 * [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
 
@@ -49,7 +43,7 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports (altough VSCode has auto import funcionatlity, this plugin is a great complement).
 
-* [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - Convert a JSON from clipboard to TypeScript interfaces. (Ctrl+Alt+V).
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Convert a JSON from clipboard to TypeScript interfaces.
 
 * [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - specially for Angular, I recommend adding the following config in you users setting for VsCode. Recommended settings:
   - `"prettier.singleQuote": true` (this helps when using auto import extension or the VSCode auto import functionality).
@@ -62,6 +56,8 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
  * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - this extension allows you to launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
 
+ * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours. Great when you have nested brackets.
+
 ### Code Analysis
 
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - linter for the TypeScript language, help fixing error in TS code.
@@ -70,8 +66,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
     "source.fixAll.tslint": true
 }`
 (auto fix lint issues on file save)
-
-* [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode) - Architectural analysis and visualization for Angular 2 projects.
 
 * [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Favorite feature for Angular projects: sorts and organizes your imports according to convention and removes imports that are unused (`Ctrl+Alt+o` on Win/Linux or `Ctrl+Opt+o` on MacOS).
 
@@ -86,8 +80,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [NgBootstrap Snippets](https://marketplace.visualstudio.com/items?itemName=ktriek.ng-bootstrap-snippets) - if you need Bootstrap 4 support in you angular project, this extension has some helpful snippets.
 
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - my favorite collection of icons for VSCode projects!
-
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. Great when you have nested brackets. I usually keep this extension disabled and only enable it when needed.
 
 * [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - allows you to view git history with graph and details
 

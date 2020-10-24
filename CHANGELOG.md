@@ -3,6 +3,15 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.9.0 - 2020-October-23
+- Removed [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - no longer up to date
+- Removed [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension) - replaced by NgRx schematics
+- Removed [Angular 2 TypeScript Test Snippets](https://marketplace.visualstudio.com/items?itemName=MarinhoBrandao.Angular2Tests)
+- Removed [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
+- Added [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- Removed [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AngularDoc.angulardoc-vscode)
+- Added [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
 ## 0.8.0 - 2020-September-09
 - Added [Arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr)
 
