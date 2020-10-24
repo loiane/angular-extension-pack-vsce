@@ -43,6 +43,8 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 
+* [Arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr) - a tool to refactor components from HTML templates
+
 ### Productivity
 
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports (altough VSCode has auto import funcionatlity, this plugin is a great complement).

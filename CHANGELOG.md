@@ -3,6 +3,9 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.8.0 - 2020-September-09
+- Added [Arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr)
+
 ## 0.7.1 - 2019-March-06
 - Removed [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - deprecated extension, no longer maintained.
 

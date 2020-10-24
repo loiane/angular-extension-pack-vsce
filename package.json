@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.7.1",
+    "version": "0.8.0",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -24,7 +24,9 @@
         "Angular 5",
         "Angular 6",
         "Angular 7",
-        "Angular 8"
+        "Angular 8",
+        "Angular 9",
+        "Angular 10"
     ],
     "extensionPack": [ 
         "UVBrain.Angular2",
@@ -49,6 +51,7 @@
         "stringham.move-ts",
         "cyrilletuzi.angular-schematics",
         "rctay.karma-problem-matcher",
-        "alexiv.vscode-angular2-files"
+        "alexiv.vscode-angular2-files",
+        "obenjiro.arrr"
     ]
 }
