@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "0.9.0",
+    "version": "1.0.0",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -19,6 +19,9 @@
     ],
     "keywords": [
         "Angular",
+        "Angular 13",
+        "Angular 12",
+        "Angular 11",
         "Angular 10",
         "Angular 9",
         "Angular 8",
@@ -41,9 +44,7 @@
         "SimonTest.simontest",
         "EditorConfig.EditorConfig",
         "quicktype.quicktype",
-        "msjsdiag.debugger-for-chrome",
         "esbenp.prettier-vscode",
-        "ms-vscode.vscode-typescript-tslint-plugin",
         "christian-kohler.path-intellisense",
         "rbbit.typescript-hero",
         "stringham.move-ts",
@@ -51,6 +52,9 @@
         "rctay.karma-problem-matcher",
         "alexiv.vscode-angular2-files",
         "obenjiro.arrr",
-        "CoenraadS.bracket-pair-colorizer-2"
+        "CoenraadS.bracket-pair-colorizer-2",
+        "dbaeumer.vscode-eslint",
+        "john-crowson.angular-file-changer",
+        "segerdekort.angular-cli"
     ]
 }

@@ -3,6 +3,13 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 1.0.0 - 2021-August-12
+- Removed [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - deprecated as VSCode added this functionality natively
+- Removed [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - deprecated
+- Added [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- Added [Angular File Changer (Supporting Touch Bar and NgRx)](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer)
+- Added [Angular-cli](https://marketplace.visualstudio.com/items?itemName=segerdekort.angular-cli)
+
 ## 0.9.0 - 2020-October-23
 - Removed [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2) - no longer up to date
 - Removed [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension) - replaced by NgRx schematics

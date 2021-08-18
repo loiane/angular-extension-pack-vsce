@@ -15,6 +15,8 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Angular Material and Angular FlexBox component snippets.
 
+* [Angular File Changer (Supporting Touch Bar and NgRx)](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer) - Navigate between Angular component's relative files or NgRx files using your Mac Touch Bar or keyboard.
+
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher) - Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular projects.
   - `alt+o`(Windows) or `shift+alt+o`(macOS)
   - by default VSCode opens file not opened from file explorer in 'preview' mode. When using this extension, I also recommend the following setting: `workbench.editor.enablePreview": false`
@@ -24,10 +26,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 * [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest) - Analyzes your Angular code and generates unit tests for you (can overwrite spec files generated automatically with Angular CLI).
 
 * [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
-
-### Debug
-
-* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Must have extension for Angular development. You can debug using chrome and add your breakpoints in VSCode. Tutorial on how to use can be found [on VSCode docs](https://code.visualstudio.com/docs/nodejs/angular-tutorial).
 
 ### Template Productivity
 
@@ -58,14 +56,11 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
  * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours. Great when you have nested brackets.
 
+ * [Angular-cli](https://marketplace.visualstudio.com/items?itemName=segerdekort.angular-cli) - This extension eases the use of the Angular cli in Visual Studio Code.
+
 ### Code Analysis
 
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - linter for the TypeScript language, help fixing error in TS code.
-  - Recommended settings: 
-`"editor.codeActionsOnSave": {
-    "source.fixAll.tslint": true
-}`
-(auto fix lint issues on file save)
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 * [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Favorite feature for Angular projects: sorts and organizes your imports according to convention and removes imports that are unused (`Ctrl+Alt+o` on Win/Linux or `Ctrl+Opt+o` on MacOS).
 
