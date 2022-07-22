@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -52,7 +52,6 @@
         "rctay.karma-problem-matcher",
         "alexiv.vscode-angular2-files",
         "obenjiro.arrr",
-        "CoenraadS.bracket-pair-colorizer-2",
         "dbaeumer.vscode-eslint",
         "john-crowson.angular-file-changer",
         "segerdekort.angular-cli"
