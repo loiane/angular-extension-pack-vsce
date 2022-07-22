@@ -78,4 +78,4 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator) - helps you creating code snippets (saves snippets in the User Snippets in VSCode)
 
-**Enjoy!**
+**Happy Coding!**
