@@ -54,8 +54,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
  * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - this extension allows you to launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
 
- * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - This extension allows matching brackets to be identified with colours. Great when you have nested brackets.
-
  * [Angular-cli](https://marketplace.visualstudio.com/items?itemName=segerdekort.angular-cli) - This extension eases the use of the Angular cli in Visual Studio Code.
 
 ### Code Analysis
