@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -19,19 +19,16 @@
     ],
     "keywords": [
         "Angular",
+        "Angular 17",
+        "Angular 16",
+        "Angular 15",
+        "Angular 14",
         "Angular 13",
         "Angular 12",
         "Angular 11",
         "Angular 10",
-        "Angular 9",
-        "Angular 8",
-        "Angular 7",
         "TypeScript",
-        "JavaScript",
-        "Angular 2",
-        "Angular 4",
-        "Angular 5",
-        "Angular 6"
+        "JavaScript"
     ],
     "extensionPack": [
         "johnpapa.Angular2",
