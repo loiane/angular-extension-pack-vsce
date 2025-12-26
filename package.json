@@ -2,11 +2,11 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
-        "color": "#0273D4",
+        "color": "#212529",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.md",
