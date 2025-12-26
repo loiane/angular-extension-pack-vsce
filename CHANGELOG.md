@@ -3,6 +3,13 @@ All notable changes to the "angular-extension-pack" extension pack will be docum
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 1.2.0 - 2025-December-26
+- removed [Angular File Changer (Supporting Touch Bar and NgRx)](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer) - Navigate between Angular component's relative files or NgRx files using your Mac Touch Bar or keyboard.
+- removed [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher) - Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular projects.
+- removed [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest) - Analyzes your Angular code and generates unit tests for you (can overwrite spec files generated automatically with Angular CLI).
+- removed [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
+- Added [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) - Run, debug, and watch Vitest tests in Visual Studio Code
+
 ## 1.1.0 - 2022-July-22
 - removed [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) deprecated
 

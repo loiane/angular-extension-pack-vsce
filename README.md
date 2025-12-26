@@ -12,17 +12,9 @@ These are all the extensions I also recommend using for my [free Angular trainin
 
 * [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Angular Material and Angular FlexBox component snippets.
 
-* [Angular File Changer (Supporting Touch Bar and NgRx)](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer) - Navigate between Angular component's relative files or NgRx files using your Mac Touch Bar or keyboard.
-
-* [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher) - Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular projects.
-  - `alt+o`(Windows) or `shift+alt+o`(macOS)
-  - by default VSCode opens file not opened from file explorer in 'preview' mode. When using this extension, I also recommend the following setting: `workbench.editor.enablePreview": false`
-
 ### Testing
 
-* [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest) - Analyzes your Angular code and generates unit tests for you (can overwrite spec files generated automatically with Angular CLI).
-
-* [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
+* [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer) - Run, debug, and watch Vitest tests in Visual Studio Code
 
 ### Template Productivity
 
@@ -66,8 +58,6 @@ These are all the extensions I also recommend using for my [free Angular trainin
 ### Other extensions recommended, but not included in this package
 
 * [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - support for inline HTML and CSS in angular components. I don't use inline templates, but this is a helpful extension in case you use inline HTML or CSS.
-
-* [NgBootstrap Snippets](https://marketplace.visualstudio.com/items?itemName=ktriek.ng-bootstrap-snippets) - if you need Bootstrap 4 support in you angular project, this extension has some helpful snippets.
 
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - my favorite collection of icons for VSCode projects!
 

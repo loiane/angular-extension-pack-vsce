@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "1.1.2",
+    "version": "1.2.2",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -19,14 +19,14 @@
     ],
     "keywords": [
         "Angular",
+        "Angular 21",
+        "Angular 20",
+        "Angular 19",
+        "Angular 18",
         "Angular 17",
         "Angular 16",
         "Angular 15",
         "Angular 14",
-        "Angular 13",
-        "Angular 12",
-        "Angular 11",
-        "Angular 10",
         "TypeScript",
         "JavaScript"
     ],
@@ -37,8 +37,6 @@
         "steoates.autoimport",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "infinity1207.angular2-switcher",
-        "SimonTest.simontest",
         "EditorConfig.EditorConfig",
         "quicktype.quicktype",
         "esbenp.prettier-vscode",
@@ -46,11 +44,9 @@
         "rbbit.typescript-hero",
         "stringham.move-ts",
         "cyrilletuzi.angular-schematics",
-        "rctay.karma-problem-matcher",
-        "alexiv.vscode-angular2-files",
         "obenjiro.arrr",
         "dbaeumer.vscode-eslint",
-        "john-crowson.angular-file-changer",
-        "segerdekort.angular-cli"
+        "segerdekort.angular-cli",
+        "vitest.explorer"
     ]
 }
