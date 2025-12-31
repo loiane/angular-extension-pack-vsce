@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "Some of the most popular (and some I find very useful) Angular extensions.",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "publisher": "loiane",
     "icon": "angular-icon.png",
     "galleryBanner": {
@@ -41,7 +41,6 @@
         "quicktype.quicktype",
         "esbenp.prettier-vscode",
         "christian-kohler.path-intellisense",
-        "rbbit.typescript-hero",
         "stringham.move-ts",
         "cyrilletuzi.angular-schematics",
         "obenjiro.arrr",
